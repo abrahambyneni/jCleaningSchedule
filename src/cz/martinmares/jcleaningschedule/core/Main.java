@@ -41,12 +41,12 @@ import javax.swing.UIManager;
 public class Main {
 
     public static final String APP_VERSION = "3.0.0";
-    public static final String APP_HOMEPAGE = "http://www.somewhere.com"; //TODO :-D
+    public static final String APP_HOMEPAGE = "https://github.com/mmrmartin/jCleaningSchedule"; 
     //Web data
-    public static final String UPDATE_VERSION_URL = "http://goo.gl/EpzEa"; //TODO
-    public static final String UPDATE_CHANGELOG_URL = "http://goo.gl/EpzEa"; //TODO
-    public static final String UPDATE_WWW = "http://www.somewhere.com/update"; //TODO
-    public static final String FIRST_RUN_URL = "http://goo.gl/EpzEa"; //TODO
+    public static final String UPDATE_VERSION_URL = "http://goo.gl/GY95t"; 
+    public static final String UPDATE_CHANGELOG_URL = "https://raw.github.com/mmrmartin/jCleaningSchedule/master/CHANGELOG"; 
+    public static final String UPDATE_WWW = "https://github.com/mmrmartin/jCleaningSchedule/downloads"; 
+    public static final String FIRST_RUN_URL = "http://goo.gl/uidjq";
     //Default settings
     public static final Color   DEFAULT_SC_BG_COLOR = Color.YELLOW;
     public static final Color   DEFAULT_SC_TXT_COLOR = Color.BLACK;
