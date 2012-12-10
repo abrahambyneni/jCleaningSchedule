@@ -1,6 +1,23 @@
 jCleaningSchedule
 ----------------
+<img align="right" alt="logo" src="https://raw.github.com/mmrmartin/jCleaningSchedule/master/imgs/logo_small.jpg" />
 Program for printing house cleaning schedules.
+
+### Main features: ###
+- Prints table for scheduling who will do what
+- You can manage floors from 0. floor (ground floor) to INT_MAX (2^31 - 1). floor
+- If you want you can print one main schedule
+- Supports every day of week as a first day of week
+- You can change table font, colors, margins, page size and orientation
+
+### Supported languages: ###
+Czech, English
+
+### What it does: ###
+It prints table like this (GTK3 window):  
+
+<img alt="Screenshot of print preview frame" src="https://github.com/mmrmartin/jCleaningSchedule/raw/master/imgs/screenshots/gtk3-print_preview.png" width="70%"/>
+
 ### Minimal system request: ###
 - Java Runtime Environment (JRE) 1.7 or above <[http://www.java.com/]>
 - Printer (recommended)
