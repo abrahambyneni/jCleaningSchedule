@@ -80,6 +80,10 @@ public class SettingsFrame extends javax.swing.JDialog {
         return scl;
     }
     
+    public JCleaningScheduleData getJCleaningScheduleData() {
+        return data;
+    }
+    
     public void setAutoUpdates(boolean val) {
         jCheckBoxUpdates.setSelected(val);
     }

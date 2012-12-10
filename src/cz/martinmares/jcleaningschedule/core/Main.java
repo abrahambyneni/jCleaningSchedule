@@ -125,7 +125,7 @@ public class Main {
      * SettingsFrame</code>.
      * @see cz.martinmares.jcleaningschedule.gui.SettingsFrame
      */    
-    public static void showSettingsFrame(final JCleaningScheduleData data, boolean autoUpdateEnabled) {
+    public static void showSettingsFrame(JCleaningScheduleData data, boolean autoUpdateEnabled) {
         if(autoUpdateEnabled) {
             checkForUpdates();
         }
@@ -144,7 +144,7 @@ public class Main {
         dialog.setSettingsChangeListener(new SettingsChangeListener() {
             @Override
             public void onSettingsChange() {
-                showMainFrame(data);
+                showMainFrame(dialog.getJCleaningScheduleData());
             }
         });
         dialog.setVisible(true);
