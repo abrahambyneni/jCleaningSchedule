@@ -49,7 +49,7 @@ along with jCleaningSchedule.  If not, see <http://www.gnu.org/licenses/>.
 Martin Mareš  
 mmrmartin[at]gmail[dot]com
 
-[Download lasted version]:https://github.com/mmrmartin/jCleaningSchedule/downloads
+[Download lasted version]:https://github.com/mmrmartin/jCleaningSchedule/tree/master/download
 [Changelog]:https://github.com/mmrmartin/jCleaningSchedule/blob/master/CHANGELOG
 [http://www.java.com/]:http://www.java.com/
 [contact me]:http://www.google.com/recaptcha/mailhide/d?k=01V4YQ48jtKohjqAGbVLUf3A==&c=9LIVk7jQM2U5wid1mbtY5efVyon0_fyXn40aJJ0-9og=
