@@ -4,7 +4,8 @@ jCleaningSchedule
 Program for printing house cleaning schedules.
 
 **[Download lasted version]**  
-[Changelog]
+[Changelog][]   
+[Wiki]
 
 ### Main features: ###
 - Prints table for scheduling who will do what
@@ -14,7 +15,8 @@ Program for printing house cleaning schedules.
 - You can change table font, colors, margins, page size and orientation
 
 ### Supported languages: ###
-Czech, English
+Czech, English  
+[Help with translate]
 
 ### What it does: ###
 It prints table like this (GTK3 window):  
@@ -49,7 +51,9 @@ along with jCleaningSchedule.  If not, see <http://www.gnu.org/licenses/>.
 Martin Mareš  
 mmrmartin[at]gmail[dot]com
 
-[Download lasted version]:https://github.com/mmrmartin/jCleaningSchedule/tree/master/download
+[Download lasted version]:https://github.com/mmrmartin/jCleaningSchedule/blob/master/download/jCleaningSchedule_v3.0.0.zip?raw=true
 [Changelog]:https://github.com/mmrmartin/jCleaningSchedule/blob/master/CHANGELOG
+[Wiki]:https://github.com/mmrmartin/jCleaningSchedule/wiki
+[Help with translate]: https://github.com/mmrmartin/jCleaningSchedule/wiki/Translate
 [http://www.java.com/]:http://www.java.com/
 [contact me]:http://www.google.com/recaptcha/mailhide/d?k=01V4YQ48jtKohjqAGbVLUf3A==&c=9LIVk7jQM2U5wid1mbtY5efVyon0_fyXn40aJJ0-9og=
