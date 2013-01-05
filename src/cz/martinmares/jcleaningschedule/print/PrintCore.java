@@ -296,7 +296,8 @@ public class PrintCore implements Printable, Pageable{
         num = data.getDateOfWeek(core, false)[1]+".";
         g.drawString(num, pos_x - fm.stringWidth(num), pos_y + table_row_top_margin
                     +fm.getAscent());
-        pos_x+=COLUMN_MARGIN;
+        // pos_x+=COLUMN_MARGIN; depracted (rounding problems)
+        pos_x = table_column_date_w;
         
         //Names
         for(int i=0;i<table_columns_num;i++) {
