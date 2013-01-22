@@ -22,8 +22,8 @@ Czech, English
 ### What it does: ###
 It prints table like this (GTK3 window):  
 
-<img alt="Screenshot of print preview frame" src="http://mmrmartin.github.com/jCleaningSchedule/images/screenshots/gtk3-print_preview.png" width="70%"/>
-
+<img alt="Screenshot of print preview frame" src="http://mmrmartin.github.com/jCleaningSchedule/screenshots/gtk3-print_preview.png" width="70%"/>  
+[More screenshots....]
 ### Minimal system request: ###
 - Java Runtime Environment (JRE) 1.7 or above <[http://www.java.com/]>
 - Printer (recommended)
@@ -59,3 +59,4 @@ mmrmartin[at]gmail[dot]com
 [http://www.java.com/]:http://www.java.com/
 [contact me]:http://www.google.com/recaptcha/mailhide/d?k=01V4YQ48jtKohjqAGbVLUf3A==&c=9LIVk7jQM2U5wid1mbtY5efVyon0_fyXn40aJJ0-9og=
 [Homepage]:http://mmrmartin.github.com/jCleaningSchedule/
+[More screenshots....]:http://mmrmartin.github.com/jCleaningSchedule/screenshots/
