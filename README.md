@@ -52,7 +52,7 @@ along with jCleaningSchedule.  If not, see <http://www.gnu.org/licenses/>.
 Martin Mareš  
 mmrmartin[at]gmail[dot]com
 
-[Download lasted version]:http://mmrmartin.github.com/jCleaningSchedule/download/jCleaningSchedule_v3.0.0.zip
+[Download lasted version]:http://mmrmartin.github.com/jCleaningSchedule/download/
 [Changelog]:https://github.com/mmrmartin/jCleaningSchedule/blob/master/CHANGELOG
 [Wiki]:https://github.com/mmrmartin/jCleaningSchedule/wiki
 [Help with translate]: https://github.com/mmrmartin/jCleaningSchedule/wiki/Translate
