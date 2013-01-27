@@ -45,7 +45,7 @@ public class Main {
     //Web data
     public static final String UPDATE_VERSION_URL = "http://goo.gl/GY95t"; 
     public static final String UPDATE_CHANGELOG_URL = "https://raw.github.com/mmrmartin/jCleaningSchedule/master/CHANGELOG"; 
-    public static final String UPDATE_WWW = "http://mmrmartin.github.com/jCleaningSchedule/"; 
+    public static final String UPDATE_WWW = "http://mmrmartin.github.com/jCleaningSchedule/download/"; 
     public static final String FIRST_RUN_URL = "http://goo.gl/uidjq";
     //Default settings
     public static final Color   DEFAULT_SC_BG_COLOR = Color.YELLOW;
