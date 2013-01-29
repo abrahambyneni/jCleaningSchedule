@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+      <loc>http://mmrmartin.github.com/jCleaningSchedule/</loc>
+      <priority>1.0</priority>
+    </url>
+    <url>
+      <loc>http://mmrmartin.github.com/jCleaningSchedule/cs/</loc>
+      <priority>0.8</priority>
+    </url>  
+    <url>
+      <loc>http://mmrmartin.github.com/jCleaningSchedule/screenshots/</loc>
+      <priority>0.6</priority>
+    </url>
+    <url>
+      <loc>http://mmrmartin.github.com/jCleaningSchedule/download/</loc>
+      <priority>0.5</priority>
+    </url>  
+  </urlset>
