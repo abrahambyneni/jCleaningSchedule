@@ -1,6 +1,6 @@
 /*
  * jCleaningSchedule - program for printing house cleaning schedules
- * Copyright (C) 2013  Martin Mareš <mmrmartin[at]gmail[dot]com>
+ * Copyright (C) 2013  Martin Mare¨ <mmrmartin[at]gmail[dot]com>
  *
  * This file is part of jCleaningSchedule.
  *
@@ -23,7 +23,7 @@
 #include  <windows.h>
 
 int main () {
-	ShellExecute(NULL, "open", "java -jar jCleaningSchedule.jar", NULL, NULL, SW_SHOWNORMAL);
+	ShellExecute(NULL, "open", "java", "-jar jCleaningSchedule.jar", NULL, SW_HIDE);
 	
 	return 0;	
 }
