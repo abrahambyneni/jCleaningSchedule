@@ -156,6 +156,7 @@ public class SettingsFrame extends javax.swing.JDialog {
                 JOptionPane.showMessageDialog(this,
                         str.getString("SETTINGS_NO_PEOPLE"),
                         str.getString("DIALOG_ERROR"), JOptionPane.ERROR_MESSAGE);
+                jTabbedPaneRoot.setSelectedIndex(1);
                 throw new IllegalArgumentException("I need at least one name of worker");
             }
             
