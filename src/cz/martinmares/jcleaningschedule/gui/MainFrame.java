@@ -115,7 +115,7 @@ public class MainFrame extends javax.swing.JFrame {
        optimalSettingsUpdate();
    }
     
-    private void reloadTable() {
+   private synchronized void reloadTable() {
         //Basic inicialization
         final int year = (int)jSpinnerYear.getValue();
         final int weeks = DateUtil.getWeeksCount(year);
