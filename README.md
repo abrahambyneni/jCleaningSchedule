@@ -8,12 +8,18 @@ Program for printing house cleaning schedules.
 [Changelog][]   
 [Wiki]
 
+### Program description: ###
+jCleaningSchedule is program for printing house cleaning schedules. Program generates printable table which contains for each week names of people who do work in each floor and name of people who does main work (main schedule).
+
+Program supports change of font and color of table and also supports selection of preferred columns.
+
 ### Main features: ###
 - Prints table for scheduling who will do what
-- You can manage floors from 0. floor (ground floor) to INT_MAX (2^31 - 1). floor
-- If you want you can print one main schedule
-- Supports every day of week as a first day of week
+- If you want you can select which columns will contain the table
 - You can change table font, colors, margins, page size and orientation
+- Names in table are alternated after week
+- Supports every day of week as a first day of week
+- You can manage floors from 0. floor (ground floor) to INT_MAX (2^31 - 1). floor
 
 ### Supported languages: ###
 Czech, English  
